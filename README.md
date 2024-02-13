@@ -1,6 +1,5 @@
 # solid-barnacle12
 
-- [solid-barnacle12](#solid-barnacle12)
   - [Description](#description)
   - [Video walkthrough](#video-walkthrough)
   - [Installation](#installation)
